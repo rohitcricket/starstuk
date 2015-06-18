@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require bootstrap-sprokets
+//= require jquery.easing.min
+//= require jasny-bootstrap
+//= require supersized.3.2.7
 //= require_tree .

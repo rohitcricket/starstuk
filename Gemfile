@@ -42,3 +42,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Use Bootstrap Sass gem
+gem 'bootstrap-sass', '~> 3.3.5'
+
+# Use Prefixer for browser prefixes to CSS rules
+gem "autoprefixer-rails"
+
+# Use Font-Awesome Sass
+gem 'font-awesome-sass'
